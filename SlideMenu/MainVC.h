@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  MainVC.h
 //  SlideMenu
 //
 //  Created by Admin on 17.05.15.
 //  Copyright (c) 2015 ITIS. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "AMSlideMenuMainViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface MainVC : AMSlideMenuMainViewController
 
 @end
-
